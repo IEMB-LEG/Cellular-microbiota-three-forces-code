@@ -186,7 +186,7 @@ def perm_test_mean_diff(vals_exp2, vals_exp1, B=20000, seed=2025):
     return float(obs), float(p)
 
 def main():
-    infile = "combined_long_format.csv"
+    infile = "Exp1-Exp2-data.csv"
     if not os.path.exists(infile):
         raise FileNotFoundError("combined_long_format.csv not found in /mnt/data")
     df = pd.read_csv(infile)
