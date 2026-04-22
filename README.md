@@ -1,11 +1,10 @@
 # Code for "Vertical inheritance, environmental stochasticity and population-level buffering shape cellular microbiota"
 
 ## Contents
-- Introduction
-- System Requirement and dependency
-- Usage
-- Dataset
-- Citation
+- [Introduction](#introduction)
+- [System Requirement and dependency](#system-requirement-and-dependency)
+- [Dataset](#dataset)
+- [Usage](#usage)
 
 ## Introduction
 This repository contains the Python scripts and input data used to generate the analyses and figures in the paper "Vertical inheritance, environmental stochasticity and population-level buffering shape cellular microbiota".
